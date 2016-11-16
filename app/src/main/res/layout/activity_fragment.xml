@@ -1,0 +1,10 @@
+<!-- Deze framelayout is de 'containerview' -->
+<!-- voor 'CrimeFragment... Deze wordt niet genoemd-->
+<!-- je kunt deze ook voor andere fragmenten gebruiken-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                     android:id="@+id/fragment_container"
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     >
+</FrameLayout>
+<!-- Het scherm(zie design) is nu nog leeg. Er komt code die een Fragement'sv view in deze layout gaat zetten-->
